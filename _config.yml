@@ -1,9 +1,9 @@
 # Site settings
-title: Dong Liang's CV 
-description: ddbullfrog's CV
+title: Celtan Steven's CV 
+description: scspmsas's CV
 favicon: /assets/img/avatar.JPG
-baseurl: https://ddbullfrog.github.io/resumecard
-url: https://ddbullfrog.github.io/resumecard
+baseurl: https://scspmsas.github.io/resume/
+url: https://scspmsas.github.io/resume/
 rss_url: /pages/atom.xml
 google_analytics: UA-63653234-1
 
@@ -14,18 +14,18 @@ exclude: [vendor]
 
 # Author settings
 author:
-  name: Dong Liang
-  title: Java Developer
-  address: Auckland, New Zealand
-  email: dongg.liang@gmail.com
-  link: http://ddbullfrog.com
+  name: Celtan Steven
+  title: C# Developer
+  address: Paris, France
+  email: scspmsas@gmail.com
+  link: http://scspmsas.com
   weibo:
-  github: ddbullfrog
-  linkedin: ddbullfrog
-  twitter: ddbullfrog
+  github: scspmsas
+  linkedin: scspmsas
+  twitter: scspmsas
   gavatar: /resumecard/assets/img/avatar.JPG
   stackoverflow:
-#  stackoverflow: 4582127
+#  stackoverflow: 
   workHistory:
     - work1:
       company: Finzsoft Solutions Ltd
@@ -50,23 +50,20 @@ author:
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
   educationHistory:
     - education1:
-      organization: Northeastern University
+      organization: SUPINFO
       location: Shenyang, China
       degree: Bachelor
       major: Software Engineering
-      started: 2005
-      duration: (2005 - 2009)
+      started: 2004
+      duration: (2004 - 2009)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
   languages:
     - language1:
-      name: Chinese
+      name: French
       proficiency: Native
     - language2:
       name: English
       proficiency: Professional
-    - language3:
-      name: Japanese
-      proficiency: Limit
   programmingSkills:
     - skill1:
       name: HTML
@@ -76,10 +73,7 @@ author:
       percentage: 90%
     - skill3:
       name: JavaScript
-      percentage: 70%
-    - skill4:
-      name: AngularJS
-      percentage: 70%
+      percentage: 30%
     - skill5:
-      name: Java/Java EE
+      name: C#/ASP.NET MVC
       percentage: 90%
