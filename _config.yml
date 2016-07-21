@@ -21,8 +21,8 @@ author:
   link: http://scspmsas.com
   weibo:
   github: scspmsas
-  linkedin: scspmsas
-  twitter: scspmsas
+  linkedin: steven-celtan
+  twitter: Rahfaruto
   gavatar: /resumecard/assets/img/avatar.JPG
   stackoverflow:
 #  stackoverflow: 
@@ -42,17 +42,17 @@ author:
       duration: (2012 - 2014)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
     - work3:
-      company: Citigroup Services and Technology (China) Limited
-      location: Shanghai, China
+      company: Eggsist
+      location: Beijing, China
       title: Java Developer
       started: 2009
       duration: (2009 - 2012)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
-  educationHistory:
+      description: Creation and implementation of an online platform for travel worldwide .• Analysis and design Choice Elgg framework ( Social Network) Establishment of partnership with expedia Creating storyboard• Development Creation of Elgg modules Import data via openDD Use various JQuery• Agile MethodologiesEnvironment : Workstation Linux , using Netbeans , PHP 5.3 language, SVN, Mantis bug tracker, agile methodologies SCRUM (Daily meeting , Sprint ... )
+      educationHistory:
     - education1:
       organization: SUPINFO
-      location: Shenyang, China
-      degree: Bachelor
+      location: Paris, France
+      degree: One-year degree before postgraduate studies in computer science
       major: Software Engineering
       started: 2004
       duration: (2004 - 2009)
