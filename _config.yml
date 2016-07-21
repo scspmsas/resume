@@ -48,7 +48,7 @@ author:
       started: 2009
       duration: (2009 - 2012)
       description: Creation and implementation of an online platform for travel worldwide .Analysis and design.Choice Elgg framework ( Social Network).Establishment of partnership with expedia.Creating storyboard.Development.Creation of Elgg modules.Import data via openDD.Used JQuery.Agile Methodologies. 
-      educationHistory:
+  educationHistory:
     - education1:
       organization: SUPINFO
       location: Paris, France
