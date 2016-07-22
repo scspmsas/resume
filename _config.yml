@@ -28,7 +28,7 @@ author:
 #  stackoverflow: 
   workHistory:
     - work1:
-      company: Ausy
+      company: Ausy - Client Radioprotection and Nuclear Safety Institute
       location: Sevres, Paris
       title: C#/ASP.NET MVC Developer
       started: 2013
@@ -39,7 +39,7 @@ author:
       description4:-Translate an old application ( Powerbuilder , Jaguar, C) using the following technologies:
       description5: Wpf ,ASP .Net MVC 5, Dapper, Nunit , Squirrel , Sybase, MVVM light , Modern UI,GIT, Sqr hypervision oracle,Scrum
     - work2:
-      company: Ausy
+      company: Ausy - Client Radioprotection and Nuclear Safety Institute
       location: Sevres, Paris
       title: Java Developer
       started: 2011
