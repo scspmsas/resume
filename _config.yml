@@ -54,11 +54,11 @@ author:
       title: Developer
       started: 2010
       duration: (2010 - 2011)
-      description: Client Thales. 
-      description2: Development of maritime equipment simulation application.
+      description: -Client Thales. 
+      description2: -Development of maritime equipment simulation application.
       description3: Eclipse, GWT , SMART-GWT.
-      description4: Client Sagem .
-      description5: Development of a web application to collate and make available flight analysis reports.
+      description4: -Client Sagem .
+      description5: -Development of a web application to collate and make available flight analysis reports.
       description6: Zend Framework.
     - work4:
       company: Eggsist
@@ -66,10 +66,10 @@ author:
       title: Php Developer
       started: 2008
       duration: (2008 - 2009)
-      description: Creation and implementation of an online platform for worldwide travel.
-      description2: Analysis and design. 
-      description3: Creation of Storyboard and Elgg modules.Import data via openDD.
-      description4: Agile Methodologies. 
+      description: -Creation and implementation of an online platform for worldwide travel.
+      description2: -Analysis and design. 
+      description3: -Creation of Storyboard and Elgg modules.Import data via openDD.
+      description4: -Agile Methodologies. 
       environement: PHP 5.3,SVN,Elgg Framework
   educationHistory:
     - education1:
