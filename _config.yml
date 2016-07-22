@@ -15,7 +15,7 @@ exclude: [vendor]
 # Author settings
 author:
   name: Celtan Steven
-  title: C# Developer
+  title: C#, ASP .NET MVC Developer
   address: Paris, France
   email: scspmsas@gmail.com
   link: http://scspmsas.com
@@ -71,14 +71,14 @@ author:
       proficiency: Professional
   programmingSkills:
     - skill1:
-      name: HTML
-      percentage: 100%
+      name: ASP.NET MVC
+      percentage: 75%
     - skill2:
-      name: Bootstrap
-      percentage: 90%
+      name: SQL
+      percentage: 60%
     - skill3:
-      name: JavaScript
-      percentage: 30%
+      name: WPF
+      percentage: 80%
     - skill5:
-      name: C#/ASP.NET MVC
+      name: C#
       percentage: 90%
