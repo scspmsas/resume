@@ -36,23 +36,29 @@ author:
       description: -Translate business and functional requirements into technical designs and solutions aligned to best practices
       description2: -Mentor and contribute to the growth of other development team members
       description3: -Create technical architecture and documentation
-      description4: -Translate an old application ( Powerbuilder , Jaguar, C) using the following technologies
-      description5: -Wpf ,ASP .Net MVC 5, Dapper, Nunit , Squirrel , Sybase, MVVM light , Modern UI,GIT, Sqr hypervision oracle,Scrum
+      description4: -Translate an old application ( Powerbuilder , Jaguar, C) using the following technologies and methodologies
+      description5:  Wpf 4,ASP .Net MVC 5, Dapper, Nunit , Squirrel , Sybase 16, MVVM light , Modern UI,GIT, Sqr hypervision oracle,Scrum
     - work2:
       company: Ausy - Client Radioprotection and Nuclear Safety Institute
       location: Sevres, Paris
       title: Java Developer
       started: 2011
       duration: (2011 - 2013)
-      description: Struts, Spring, Hibernate , Sybase,Talend, Business Object
+      description: -Translate business and functional requirements into technical designs and solutions aligned to best practices
+      description2: -Mentor and contribute to the growth of other development team members
+      description3: -Create technical architecture and documentation
+      description4: Struts 2, Spring, Hibernate , Sybase 16,Talend, Business Object
     - work3:
       company: Eggsist
       location: Beijing, China
       title: Php Developer
-      started: 2009
-      duration: (2009 - 2012)
-      description: Creation and implementation of an online platform for worldwide travel.\nAnalysis and design. Elgg framework ( Social Network).Establishment of partnership with expedia.Creation of Storyboard and Elgg modules.Import data via openDD.Used JQuery.Agile Methodologies. 
-      environement: Struts, Spring, Hibernate , Sybase,Talend, Business Object
+      started: 2008
+      duration: (2008 - 2009)
+      description: Creation and implementation of an online platform for worldwide travel.
+      description2: Analysis and design. 
+      description3: Creation of Storyboard and Elgg modules.Import data via openDD.
+      description4: Agile Methodologies. 
+      environement: PHP 5.3,SVN,Elgg Framework
   educationHistory:
     - education1:
       organization: SUPINFO
