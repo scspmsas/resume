@@ -1,6 +1,6 @@
 # Site settings
 title: Celtan Steven's CV 
-description: scspmsas's CV
+description: Celtan Steven's CV
 favicon: /assets/img/IMG_20160716_174757.jpg
 baseurl: https://scspmsas.github.io/resume/
 url: https://scspmsas.github.io/resume/
@@ -22,7 +22,7 @@ author:
   weibo:
   github: scspmsas
   linkedin: steven-celtan
-  twitter: Rahfaruto
+  twitter: SpmSas
   gavatar: /resumecard/assets/img/avatar.JPG
   stackoverflow:
 #  stackoverflow: 
