@@ -16,7 +16,7 @@ exclude: [vendor]
 author:
   name: Celtan Steven
   title: C#, ASP .NET MVC Developer
-  address: Martinique
+  address: Fort-de-france,Martinique
   email: scspmsas@gmail.com
   link: http://scspmsas.com
   weibo:
@@ -100,6 +100,6 @@ author:
     - skill5:
       name: C#
       percentage: 90%
-      - skill6:
+    - skill6:
       name: React/Redux
       percentage: 90%
